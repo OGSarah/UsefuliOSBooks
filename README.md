@@ -48,6 +48,7 @@ A repository with a list of useful books and websites for learning about iOS and
 - Classes v. Structs v. Actors: https://www.youtube.com/watch?v=-JLenSTKEcA
 - Advanced Swift book: https://books.nilcoalescing.com/swift-gems
 - https://nilcoalescing.com
+- https://tanaschita.com
 
 ## Swift and C++:
 - https://www.swift.org/documentation/cxx-interop/
