@@ -64,7 +64,7 @@ A repository with a list of useful books and websites for learning about iOS and
 
 ## Interviewing:
 - The Ultimate iOS Interview Playbook by Avi Tsadok
-- Preparing for a Technical Job Interview by Natascha Fadeeva (https://tanaschita.com/books/)
+- Preparing for a Technical Job Interview by Natascha Fadeeva (https://tanaschita.com/books/) (it's been updated for iOS 26)
 
 ## Writing Tests:
 - Test-Driven Development in Swift by Gio Lodi
