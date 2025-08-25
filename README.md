@@ -3,7 +3,7 @@ A repository with a list of useful books and websites for learning about iOS and
 
 ## General iOS:
 - [Everything but the Code by Paul Hudson](https://twostraws.gumroad.com/l/everything-but-the-code)
-- iOS 17 App Development Essentials by Neil Smyth
+- iOS 18 App Development Essentials by Neil Smyth
 - Real-World iOS by Tutorials by Renan Dias, Aaqib Hussain & Josh Steel
 - https://www.Kodeco.com
 
@@ -34,7 +34,7 @@ A repository with a list of useful books and websites for learning about iOS and
 - Elevate SwiftUI Skills by Building Projects by Frahaan Hussain
 - SwiftUI Cookbook by Giordano Scalzo & Edgar Nzokwe
 - Animating SwiftUI Applications by Stephen Destefano
-- SwiftUI for Masterminds: iOS 17 by J.D Gauchat
+- SwiftUI for Masterminds: iOS 18 by J.D Gauchat
 - https://www.hackingwithswift.com/100/swiftui
 - https://www.swiftuifieldguide.com
 
