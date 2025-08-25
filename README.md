@@ -2,6 +2,7 @@
 A repository with a list of useful books and websites for learning about iOS and other Apple platforms.
 
 ## General iOS:
+- [Everything but the Code by Paul Hudson](https://twostraws.gumroad.com/l/everything-but-the-code)
 - iOS 17 App Development Essentials by Neil Smyth
 - Real-World iOS by Tutorials by Renan Dias, Aaqib Hussain & Josh Steel
 - https://www.Kodeco.com
