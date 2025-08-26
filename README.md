@@ -59,13 +59,14 @@ A repository with a list of useful books and websites for learning about iOS and
 
 ## Architecture: 
 - Advanced iOS App Architecture by Josh Berlin & René Cacheaux
+- [Architecture & Design Patterns for iOS by Natascha Fadeeva](https://tanaschita.com/books/architecture-book/)
 
 ## Swift AI:
 - Convolutional Neural Networks with Swift for Tensorflow by Brett Koonce
 
 ## Interviewing:
 - The Ultimate iOS Interview Playbook by Avi Tsadok
-- Preparing for a Technical Job Interview by Natascha Fadeeva (https://tanaschita.com/books/) (it's been updated for iOS 26)
+- [Preparing for a Technical Job Interview by Natascha Fadeeva](https://tanaschita.com/books/)
 
 ## Writing Tests:
 - Test-Driven Development in Swift by Gio Lodi
