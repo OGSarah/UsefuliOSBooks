@@ -29,6 +29,9 @@ A repository with a list of useful books and websites for learning about iOS and
 - Modern Concurrency in Swift by the Kodeco Team & Marin Todorov
 - Modern Concurrency on Apple Platforms by Andrés Ibañez Kautsch
 
+## Combine
+- [Using Combine by Joseph Heck](https://heckj.github.io/swiftui-notes/)
+
 ## SwiftUI:
 - Pro iPhone Development with SwiftUI by Wallace Wang
 - Elevate SwiftUI Skills by Building Projects by Frahaan Hussain
